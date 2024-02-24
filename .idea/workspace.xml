@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swagger/javas/GetMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swagger/javas/GetMethodExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.GoogleMapAPIExample.addLocationReturnResponseAsString">
+  <component name="RunManager" selected="TestNG.GoogleMapAPIExample.validateResponseValue">
     <configuration name="GetMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swagger.javas.GetMethodExample" />
       <module name="rest-assured-api-weekly-batch" />
@@ -112,12 +114,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoogleMapAPIExample.validateResponseValue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-api-weekly-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googlemap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googlemap" />
+      <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
+      <option name="METHOD_NAME" value="validateResponseValue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleMapAPIExample.validateResponseValue" />
+        <item itemvalue="Application.GetMethodExample" />
         <item itemvalue="TestNG.GoogleMapAPIExample.addLocationReturnResponseAsString" />
         <item itemvalue="TestNG.GoogleMapAPIExample.addLocationReturnResponse" />
         <item itemvalue="TestNG.GoogleMapAPIExample.addLocation" />
-        <item itemvalue="Application.GetMethodExample" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708318872309</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="API learning">
+      <created>1708326459672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708326459672</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
