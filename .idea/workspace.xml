@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/location.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/swagger/javas/GetMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swagger/javas/GetMethodExample.java" afterDir="false" />
@@ -46,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.GoogleMapAPIExample.validateResponseValue">
+  <component name="RunManager" selected="TestNG.GoogleMapAPIExample.AddLocation1">
     <configuration name="GetMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swagger.javas.GetMethodExample" />
       <module name="rest-assured-api-weekly-batch" />
@@ -60,7 +61,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleMapAPIExample.addLocation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoogleMapAPIExample.AddLocation1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +71,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="googlemap" />
       <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
-      <option name="METHOD_NAME" value="addLocation" />
+      <option name="METHOD_NAME" value="AddLocation1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleMapAPIExample.AddLocation1" />
         <item itemvalue="TestNG.GoogleMapAPIExample.validateResponseValue" />
         <item itemvalue="Application.GetMethodExample" />
         <item itemvalue="TestNG.GoogleMapAPIExample.addLocationReturnResponseAsString" />
         <item itemvalue="TestNG.GoogleMapAPIExample.addLocationReturnResponse" />
-        <item itemvalue="TestNG.GoogleMapAPIExample.addLocation" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +299,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708326459672</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="API learning">
+      <created>1708747839179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708747839179</updated>
+    </task>
+    <task id="LOCAL-00023" summary="API learning">
+      <created>1708747845446</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708747845446</updated>
+    </task>
+    <task id="LOCAL-00024" summary="API learning">
+      <created>1708747853644</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708747853644</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
