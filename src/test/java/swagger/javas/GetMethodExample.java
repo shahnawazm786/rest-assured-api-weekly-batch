@@ -6,11 +6,11 @@ public class GetMethodExample {
     //then() // response -
     public static void main(String[] args) {
     //postMethod();
-      //  postMethodWithResponse();
+       postMethodWithResponse();
       //  getMethod();
       // postMethodWithResponseAndRequest();
        // updatePet();
-        deletePet();
+      //  deletePet();
     }
     static void getMethod(){
         given().header("Content-Type","application/json")
