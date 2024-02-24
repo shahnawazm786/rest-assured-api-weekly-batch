@@ -1,10 +1,14 @@
 package googlemap;
 
 import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
+import static org.testng.Assert.assertEquals;
+
 public class GoogleMapAPIExample {
+    Response resp;
     @Test
     public void addLocation(){
         RestAssured.baseURI="https://rahulshettyacademy.com";
@@ -24,7 +28,7 @@ public class GoogleMapAPIExample {
     @Test
     public void addLocationReturnResponse(){
         RestAssured.baseURI="https://rahulshettyacademy.com";
-        Response resp =given().header("Content-Type","application/json")
+        resp =given().header("Content-Type","application/json")
                 .queryParam("key","qaclick123")
                 .log().all()
                 .body(Payload.addLocationPaylod())
@@ -56,4 +60,19 @@ public class GoogleMapAPIExample {
         System.out.println("====================== Response capture in String =========");
         System.out.println(resp);
     }
+    @Test(dependsOnMethods = "addLocationReturnResponse")
+    public void validateResponseValue(){
+        String respString=resp.asString();
+        JsonPath path=new JsonPath(respString);
+       // int statusCode=path.getInt("statuscode");
+        //System.out.println(statusCode);
+        String status=path.getString("status");
+        System.out.println(status);
+        String place_id=path.getString("place_id");
+        System.out.println(place_id);
+        assertEquals("OK",status);
+
+    }
+
+
 }
