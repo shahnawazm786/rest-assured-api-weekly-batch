@@ -6,8 +6,8 @@ public class GetMethodExample {
     //then() // response -
     public static void main(String[] args) {
     //postMethod();
-       postMethodWithResponse();
-      //  getMethod();
+      // postMethodWithResponse();
+        getMethod();
       // postMethodWithResponseAndRequest();
        // updatePet();
       //  deletePet();
