@@ -1,8 +1,12 @@
 package googlemap;
 
 import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import io.restassured.http.Header;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
+import netscape.javascript.JSObject;
+import org.json.JSONObject;
 import org.testng.annotations.Test;
 
 import java.io.File;
@@ -93,6 +97,33 @@ public class GoogleMapAPIExample {
 
         JsonPath path=new JsonPath(resp);
        // System.out.println(path.getString("Content-Type"));
+        System.out.println(path.getString("status"));
+        System.out.println(path.getString("scope"));
+        System.out.println(path.getString("place_id"));
+    }
+
+    @Test
+    public void AddLocationJSONObject(){
+        JSONObject object=new JSONObject();
+        object.put("key","qaclick123");
+        JSONObject head=new JSONObject();
+        head.put("Content-Type","application/json");
+
+        RestAssured.baseURI = "https://rahulshettyacademy.com";
+        File file=new File("src/test/resources/location.json");
+        String resp = given().header("Contenty-Type",ContentType.JSON)
+                .queryParam(object.toString())
+                .log().all()
+                .body(file)
+                .when()
+                .put("/maps/api/place/add/json")
+                .then()
+                .extract().response().asString();
+        System.out.println("====================== Response capture in String =========");
+        System.out.println(resp);
+
+        JsonPath path=new JsonPath(resp);
+        // System.out.println(path.getString("Content-Type"));
         System.out.println(path.getString("status"));
         System.out.println(path.getString("scope"));
         System.out.println(path.getString("place_id"));
