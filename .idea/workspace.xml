@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
-      <change beforePath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/googlemap/GoogleMapAPIExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mock/MockDataPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mock/MockDataReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resreq/ResReqExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/employee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/link" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mockdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +51,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.GoogleMapAPIExample.AddLocationJSONObject">
-    <configuration name="GetMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swagger.javas.GetMethodExample" />
+  <component name="RunManager" selected="Application.MockDataReading">
+    <configuration name="MockDataReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mock.MockDataReading" />
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swagger.javas.*" />
+          <option name="PATTERN" value="mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,17 +65,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleMapAPIExample.AddLocation1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResReqExample.createUserByMapRresponseExtract" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googlemap.*" />
+          <option name="PATTERN" value="resreq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="googlemap" />
-      <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
-      <option name="METHOD_NAME" value="AddLocation1" />
+      <option name="PACKAGE_NAME" value="resreq" />
+      <option name="MAIN_CLASS_NAME" value="resreq.ResReqExample" />
+      <option name="METHOD_NAME" value="createUserByMapRresponseExtract" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,17 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleMapAPIExample.AddLocationJSONObject" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResReqExample.createUserByUsingJsonFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googlemap.*" />
+          <option name="PATTERN" value="resreq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="googlemap" />
-      <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
-      <option name="METHOD_NAME" value="AddLocationJSONObject" />
+      <option name="PACKAGE_NAME" value="resreq" />
+      <option name="MAIN_CLASS_NAME" value="resreq.ResReqExample" />
+      <option name="METHOD_NAME" value="createUserByUsingJsonFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,17 +101,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleMapAPIExample.addLocationReturnResponseAsString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResReqExample.createUserExtractResponseHeader" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googlemap.*" />
+          <option name="PATTERN" value="resreq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="googlemap" />
-      <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
-      <option name="METHOD_NAME" value="addLocationReturnResponseAsString" />
+      <option name="PACKAGE_NAME" value="resreq" />
+      <option name="MAIN_CLASS_NAME" value="resreq.ResReqExample" />
+      <option name="METHOD_NAME" value="createUserExtractResponseHeader" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -112,17 +119,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleMapAPIExample.validateResponseValue" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResReqExample.createUserRresponseExtract" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googlemap.*" />
+          <option name="PATTERN" value="resreq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="googlemap" />
-      <option name="MAIN_CLASS_NAME" value="googlemap.GoogleMapAPIExample" />
-      <option name="METHOD_NAME" value="validateResponseValue" />
+      <option name="PACKAGE_NAME" value="resreq" />
+      <option name="MAIN_CLASS_NAME" value="resreq.ResReqExample" />
+      <option name="METHOD_NAME" value="createUserRresponseExtract" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GoogleMapAPIExample.AddLocationJSONObject" />
-        <item itemvalue="TestNG.GoogleMapAPIExample.AddLocation1" />
-        <item itemvalue="TestNG.GoogleMapAPIExample.validateResponseValue" />
-        <item itemvalue="Application.GetMethodExample" />
-        <item itemvalue="TestNG.GoogleMapAPIExample.addLocationReturnResponseAsString" />
+        <item itemvalue="Application.MockDataReading" />
+        <item itemvalue="TestNG.ResReqExample.createUserByMapRresponseExtract" />
+        <item itemvalue="TestNG.ResReqExample.createUserExtractResponseHeader" />
+        <item itemvalue="TestNG.ResReqExample.createUserByUsingJsonFile" />
+        <item itemvalue="TestNG.ResReqExample.createUserRresponseExtract" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708829019795</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="API learning">
+      <created>1708829095507</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708829095507</updated>
+    </task>
+    <task id="LOCAL-00034" summary="API learning">
+      <created>1708829100133</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1708829100133</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
