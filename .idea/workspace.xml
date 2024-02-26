@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
-      <change afterPath="$PROJECT_DIR$/src/test/java/mock/MockDataPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mock/MockDataReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resreq/ResReqExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/employee.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/link" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/mockdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -394,7 +387,63 @@
       <option name="project" value="LOCAL" />
       <updated>1708829100133</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="API learning">
+      <created>1708837369278</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837369279</updated>
+    </task>
+    <task id="LOCAL-00036" summary="API learning">
+      <created>1708837373474</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837373474</updated>
+    </task>
+    <task id="LOCAL-00037" summary="API learning">
+      <created>1708837378069</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837378069</updated>
+    </task>
+    <task id="LOCAL-00038" summary="API learning">
+      <created>1708837384567</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837384567</updated>
+    </task>
+    <task id="LOCAL-00039" summary="API learning">
+      <created>1708837389988</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837389988</updated>
+    </task>
+    <task id="LOCAL-00040" summary="API learning">
+      <created>1708837394659</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837394659</updated>
+    </task>
+    <task id="LOCAL-00041" summary="API learning">
+      <created>1708837399922</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837399922</updated>
+    </task>
+    <task id="LOCAL-00042" summary="API learning">
+      <created>1708837403919</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1708837403919</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
