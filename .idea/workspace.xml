@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGPriorityCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MockDataReading">
+  <component name="RunManager" selected="TestNG.TestNGPriorityCheck">
     <configuration name="MockDataReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mock.MockDataReading" />
       <module name="rest-assured-api-weekly-batch" />
@@ -112,18 +113,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResReqExample.createUserRresponseExtract" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNGPriorityCheck" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-api-weekly-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="resreq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="resreq" />
-      <option name="MAIN_CLASS_NAME" value="resreq.ResReqExample" />
-      <option name="METHOD_NAME" value="createUserRresponseExtract" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGPriorityCheck" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -132,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNGPriorityCheck" />
         <item itemvalue="Application.MockDataReading" />
         <item itemvalue="TestNG.ResReqExample.createUserByMapRresponseExtract" />
         <item itemvalue="TestNG.ResReqExample.createUserExtractResponseHeader" />
         <item itemvalue="TestNG.ResReqExample.createUserByUsingJsonFile" />
-        <item itemvalue="TestNG.ResReqExample.createUserRresponseExtract" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708945906243</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="API learning">
+      <created>1709127787300</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1709127787300</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
