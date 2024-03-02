@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apispom/GetMethodAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apispom/Supports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apispom/UserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/path/IPathPAram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ReqResSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/resreq.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pojo/CreateUserResponseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pojo/UserListResponseClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,83 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708145186739</updated>
-    </task>
-    <task id="LOCAL-00010" summary="API learning">
-      <created>1708147833447</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1708147833447</updated>
-    </task>
-    <task id="LOCAL-00011" summary="API learning">
-      <created>1708147836501</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1708147836501</updated>
-    </task>
-    <task id="LOCAL-00012" summary="API learning">
-      <created>1708269538126</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1708269538126</updated>
-    </task>
-    <task id="LOCAL-00013" summary="API learning">
-      <created>1708270964588</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1708270964588</updated>
-    </task>
-    <task id="LOCAL-00014" summary="API learning">
-      <created>1708270970064</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1708270970064</updated>
-    </task>
-    <task id="LOCAL-00015" summary="API learning">
-      <created>1708274124536</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1708274124536</updated>
-    </task>
-    <task id="LOCAL-00016" summary="API learning">
-      <created>1708275203609</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1708275203609</updated>
-    </task>
-    <task id="LOCAL-00017" summary="API learning">
-      <created>1708275212032</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1708275212032</updated>
-    </task>
-    <task id="LOCAL-00018" summary="API learning">
-      <created>1708275498967</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1708275498967</updated>
-    </task>
-    <task id="LOCAL-00019" summary="API learning">
-      <created>1708275503787</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1708275503787</updated>
-    </task>
-    <task id="LOCAL-00020" summary="API learning">
-      <created>1708318872309</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1708318872309</updated>
     </task>
     <task id="LOCAL-00021" summary="API learning">
       <created>1708326459672</created>
@@ -493,7 +404,84 @@
       <option name="project" value="LOCAL" />
       <updated>1709353303066</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="API learning">
+      <created>1709355773647</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355773647</updated>
+    </task>
+    <task id="LOCAL-00060" summary="API learning">
+      <created>1709355779136</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355779136</updated>
+    </task>
+    <task id="LOCAL-00061" summary="API learning">
+      <created>1709355784553</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355784553</updated>
+    </task>
+    <task id="LOCAL-00062" summary="API learning">
+      <created>1709355788574</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355788574</updated>
+    </task>
+    <task id="LOCAL-00063" summary="API learning">
+      <created>1709355794363</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355794363</updated>
+    </task>
+    <task id="LOCAL-00064" summary="API learning">
+      <created>1709355798240</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355798240</updated>
+    </task>
+    <task id="LOCAL-00065" summary="API learning">
+      <created>1709355801936</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355801936</updated>
+    </task>
+    <task id="LOCAL-00066" summary="API learning">
+      <created>1709355806480</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355806480</updated>
+    </task>
+    <task id="LOCAL-00067" summary="API learning">
+      <created>1709355810723</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355810723</updated>
+    </task>
+    <task id="LOCAL-00068" summary="API learning">
+      <created>1709355817495</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355817495</updated>
+    </task>
+    <task id="LOCAL-00069" summary="API learning">
+      <created>1709355823529</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1709355823529</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
