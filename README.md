@@ -1,4 +1,4 @@
 ## Project - API Automation Test
-# Purpose - Tutorial 
+### Purpose - Learning and Training
 # Details 
   This project 
