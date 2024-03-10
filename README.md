@@ -11,11 +11,12 @@
 - Issue Tracking
 # Details #
 
-  We are having the online session in every weekend Saturday and Sunday at 9:00 AM for one hour. We are learning Rest Assured Frameworks with Java to automate the API test cases.
+ We are having the online session in every weekend Saturday and Sunday at 9:00 AM for one hour. We are learning Rest Assured Frameworks with Java to automate the API test cases.
   We have complete E2E scenario covering, the beauty of this solution is the step by step coding.
   We added CRUD method as an method.
   We have good practical example of GET, POST, PUT and DELETE operation on mock api or practice API.
   Our target is to provide the complete solution for API automation.
+ 
   --
  ## KAZ
 
