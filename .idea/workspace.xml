@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning" />
+    <list default="true" id="a16e0b3f-ef15-4bc6-a310-bd13c95cb9d7" name="Changes" comment="API learning">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708145186739</updated>
-    </task>
-    <task id="LOCAL-00027" summary="API learning">
-      <created>1708799473780</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1708799473780</updated>
     </task>
     <task id="LOCAL-00028" summary="API learning">
       <created>1708799480094</created>
@@ -481,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709713894807</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="API learning">
+      <created>1709886909782</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1709886909782</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
